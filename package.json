@@ -27,7 +27,7 @@
         "dotenv": "^8.2.0",
         "modelscrape": "^1.0.4",
         "mongoose": "^5.7.7",
-        "next": "^9.4.2",
+        "next": "^11.1.0",
         "pdfjs-dist": "^2.2.228",
         "react": "^16.11.0",
         "react-dom": "^16.11.0",
